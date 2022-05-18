@@ -1,4 +1,3 @@
-</style>
 <body>
 	<main>
 		<div class="content-wrapper">
